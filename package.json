@@ -11,7 +11,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "lite-server": "^2.3.0",
+    "prettier": "^2.0.5"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
@@ -19,5 +30,14 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankgoel871/boot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mayankgoel871/boot/issues"
+  },
+  "homepage": "https://github.com/mayankgoel871/boot#readme"
 }

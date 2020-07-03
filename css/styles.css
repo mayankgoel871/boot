@@ -1,25 +1,27 @@
-.jumbotron{
+.jumbotron {
     margin: 0px auto;
     padding: 40px 0px;
     color: #f0fff0;
     background-color: #30d330;
 }
-.row{
+
+.row {
     padding: 4px 0px 0px 0px;
     margin: 1% 1%;
 }
-.footer{
+
+.footer {
     background-color: #ff7f50;
     color: #f3f2f2;
 
 }
 
-body{
+body {
     padding: 50px 0px 0px 0px;
     z-index: 0;
 }
 
-.navbar-dark{
+.navbar-dark {
     background-color: rgb(25, 184, 11);
 }
 
@@ -28,4 +30,19 @@ body{
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
     padding: 10px;
+}
+
+.carousel {
+    background: #30e330;
+}
+
+.carousel-item {
+    height: 250px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 250px;
 }
